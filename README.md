@@ -1,2 +1,2 @@
 # best-repo-ever
-# new branch 2 testing
+# merge conflict resolved
